@@ -31,4 +31,4 @@ this is the first command line
 
  | stage |task | current status|finished|
  |:-----:|:-----:|:-------------:|:-----:|
- |git markdown|6|under dev|<ul><li> [x]finished</li></ul>
+ |git markdown|6|under dev|<ul><li> [x]  finished</li></ul>
